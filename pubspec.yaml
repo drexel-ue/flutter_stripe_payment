@@ -5,7 +5,7 @@ author: Jonas Bark <jonas.bark@gmx.de>
 homepage: https://github.com/jonasbark/flutter_stripe_payment
 
 environment:
-  sdk: ">=2.1.0 <3.0.0"
+  sdk: ">=2.1.0-dev <3.0.0"
 
 dependencies:
   flutter:
